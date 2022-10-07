@@ -18,4 +18,12 @@
   width: 100%;
 }
 
+/* terzo esercizio */
+.ex-3-square{
+  cursor: pointer;
+  transition: all 0.7s;
+}
 
+.ex-3-square:hover{
+  border-radius: 50%;
+}
