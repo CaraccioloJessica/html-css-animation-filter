@@ -70,3 +70,14 @@
   border-radius: 30px;
   filter: sepia(0.8);
 }
+
+/* nono esercizio */
+.ex-9-img{
+  transition: all 2.5s;
+}
+
+.ex-9-img:hover{
+  border-radius: 30px;
+  filter: sepia(0.8);
+  transform: scale(1.5);
+}
