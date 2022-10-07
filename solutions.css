@@ -1,0 +1,11 @@
+/* primo esercizio */
+.ex-1-square{
+  cursor: pointer;
+  transition: all 2.5s;
+}
+
+.ex-1-square:hover{
+  background-color: red;
+}
+
+/* secondo esercizio */
