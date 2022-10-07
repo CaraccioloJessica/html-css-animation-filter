@@ -60,3 +60,13 @@
 .ex-7-img:hover{
   filter: sepia(1);
 }
+
+/* ottavo esercizio */
+.ex-8-img{
+  transition: all 2.5s;
+}
+
+.ex-8-img:hover{
+  border-radius: 30px;
+  filter: sepia(0.8);
+}
