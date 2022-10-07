@@ -1,6 +1,5 @@
 /* primo esercizio */
 .ex-1-square{
-  cursor: pointer;
   transition: all 2.5s;
 }
 
@@ -10,7 +9,6 @@
 
 /* secondo esercizio */
 .ex-2-square{
-  cursor: pointer;
   transition: all 2s;
 }
 
@@ -20,7 +18,6 @@
 
 /* terzo esercizio */
 .ex-3-square{
-  cursor: pointer;
   transition: all 0.7s;
 }
 
@@ -30,7 +27,6 @@
 
 /* quarto esercizio */
 .ex-4-square{
-  cursor: pointer;
   transition: all 1s;
 }
 
@@ -40,7 +36,6 @@
 
 /* quinto esercizio */
 .ex-5-square{
-  cursor: pointer;
   transition: all 0.8s;
 }
 
@@ -55,4 +50,13 @@
 /* sesto esercizio */
 .ex-6-img:hover{
   filter: grayscale(1);
+}
+
+/* settimo esercizio */
+.ex-7-img{
+  transition: all 3s;
+}
+
+.ex-7-img:hover{
+  filter: sepia(1);
 }
