@@ -81,3 +81,15 @@
   filter: sepia(0.8);
   transform: scale(1.5);
 }
+
+/* decimo esercizio */
+.ex-10-icon{
+  animation: ex-ten 1s linear infinite;
+}
+
+@keyframes ex-ten {
+  0% {
+    transform: rotate(360deg);
+  }
+}
+
